@@ -1,5 +1,5 @@
 # Cara-ou-Coroa-IOS
-Sexto app IOS do curso Desenvolvimento IOS 12 na Udemy, ministrado pelo professor Jamilton Damasceno. O objetivo do app é jogar cara ou coroa.
+6º app IOS do curso Desenvolvimento IOS 12 na Udemy, ministrado pelo professor Jamilton Damasceno. O objetivo do app é jogar cara ou coroa.
 
 No desenvolvimento deste app foi possível praticar a navegação entre telas com passagem de parâmetros usando Segues, e criar interfaces usando o componente Stack View.
 
